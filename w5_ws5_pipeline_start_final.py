@@ -12,9 +12,9 @@ import requests
 class Config:
     MYSQL_HOST = 'db4free.net'
     MYSQL_PORT = 3306
-    MYSQL_USER = 'datath'
-    MYSQL_PASSWORD = 'DataScience-chillchill'
-    MYSQL_DB = 'detraining'
+    MYSQL_USER = ''
+    MYSQL_PASSWORD = ''
+    MYSQL_DB = ''
     MYSQL_CHARSET = 'utf8mb4'
 
 # For PythonOperator
